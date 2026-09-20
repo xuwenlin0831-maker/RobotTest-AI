@@ -73,6 +73,9 @@ RobotTest-AI/
 
 ## 更多资料
 
+- [项目会话交接与进展](docs/会话交接与项目进展_2026-09-20.md)
+- [培训 PPT 大纲](docs/培训PPT大纲_RobotTest-AI_v0.1.md)
+- [最小 Demo：状态灯用例生成](examples/最小Demo_状态灯用例生成.md)
 - [常见问题 FAQ](docs/常见问题FAQ.md)
 - [完整对话示例](examples/对话示例.md)
 - [Skill 规则](.agents/skills/vehicle-testcase-lifecycle/SKILL.md)
