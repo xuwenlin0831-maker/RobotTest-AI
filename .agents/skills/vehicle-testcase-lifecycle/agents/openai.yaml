@@ -1,0 +1,4 @@
+interface:
+  display_name: "RobotTest-AI 测试用例生命周期"
+  short_description: "按 TB 标准输出并管理整车测试用例演进"
+  default_prompt: "使用 vehicle-testcase-lifecycle：先确认本次是生成项目派生用例，还是提出基础库治理建议；再基于 PRD、基础用例和 TB 标准输出结果。"

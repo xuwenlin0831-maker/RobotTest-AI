@@ -1,0 +1,19 @@
+skill_id: vehicle-testcase-lifecycle
+display_name: RobotTest-AI 测试用例生命周期
+version: v0.2.0
+status: 规划中-待试用
+owner: 待指定
+scope:
+  - 标准 TB 测试用例输出
+  - 派生用例生成
+  - 基础库变更建议
+  - 用例与交付包版本追溯
+not_in_scope:
+  - 未经确认直接修改 TB 数据
+  - 自动上传 TB 测试计划
+  - 未经明确授权发送文件或消息、修改外部系统
+source_of_truth:
+  tb_schema: references/tb_template_schema.md
+  version_policy: references/version-policy.md
+  acceptance: tests/acceptance-checklist.md
+release_rule: 更新规则后必须通过样例验证并记录 CHANGELOG

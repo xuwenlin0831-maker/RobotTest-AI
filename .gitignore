@@ -1,0 +1,18 @@
+# This repository publishes only the reusable Skill and its public documentation.
+# Everything else in the workspace is ignored by default to avoid uploading
+# production test cases, meeting materials, generated decks, or temporary files.
+*
+
+!.gitignore
+!README.md
+
+!docs/
+!docs/**
+
+!examples/
+!examples/**
+
+!.agents/
+!.agents/skills/
+!.agents/skills/vehicle-testcase-lifecycle/
+!.agents/skills/vehicle-testcase-lifecycle/**
